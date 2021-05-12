@@ -1,0 +1,23 @@
+{
+  "name": "tuto",
+  "version": "1.0.0",
+  "description": "Hello and welcome to this Repo | Bonjour et bienvenue sur ce répo",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vortezz/discord-bot-tutorial.git"
+  },
+  "author": "Vortezz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vortezz/discord-bot-tutorial/issues"
+  },
+  "homepage": "https://github.com/Vortezz/discord-bot-tutorial#readme"
+}

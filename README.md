@@ -1,4 +1,4 @@
-### Discord Bot Tutorial
+# Discord Bot Tutorial
 
 Hello and welcome to this Repo | Bonjour et bienvenue sur ce répo
 
